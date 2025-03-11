@@ -1,0 +1,10 @@
+{
+    "name": "ctest",
+    "version": "1.0.0",
+    "main": "client_cli",
+    "openiap": {
+        "language": "exec",
+        "daemon": true,
+        "chromium": false
+    }
+}
