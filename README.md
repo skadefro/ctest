@@ -1,7 +1,8 @@
 # getting started
 compile and run in debug mode
 
-Go to https://github.com/openiap/rustapi/releases and download libraries for your platform and place them in the lib folder
+Go to (rustapi)[https://github.com/openiap/rustapi/releases] and download libraries for your platform and place them in the lib folder.
+You should also update clib_openiap.h with the latest version from (here)[https://github.com/openiap/rustapi/blob/main/crates/clib/clib_openiap.h].
 
 ```bash
 
