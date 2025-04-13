@@ -1,6 +1,6 @@
 {
     "name": "ctest",
-    "version": "1.0.0",
+    "version": "0.0.2",
     "main": "client_cli",
     "openiap": {
         "language": "exec",
