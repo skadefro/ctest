@@ -4,3 +4,4 @@
 client_cli
 .env
 lib
+clib_openiap.h
